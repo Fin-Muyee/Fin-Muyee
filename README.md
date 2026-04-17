@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Muyee 👋
 
-<!--
-**Fin-Muyee/Fin-Muyee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Payments Engineer in progress | 7 years Payments Operations → Engineering
 
-Here are some ideas to get you started:
+I'm systematically transitioning from Payments Operations Management
+into Payments Engineering, building production-grade payment systems
+from the ground up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm building:
+- Payment Gateway Simulator
+- Double-Entry Ledger System
+- Fraud Detection Engine
+- Subscription Billing Engine
+- Reconciliation System
+
+### Background:
+7 years in Payments Operation, authorization flows, gateway management,
+scheme rules, settlement, reconciliation. Now learning to build the
+systems I used to operate.
+
+### Currently learning:
+Python · REST APIs · SQL · Distributed Systems · Payment Protocols
